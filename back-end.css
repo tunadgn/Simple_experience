@@ -1,0 +1,91 @@
+﻿#backgrnd {
+
+    background-repeat: no-repeat;
+    background-position: auto;
+}
+
+
+
+
+
+#erisim {
+    margin-left: 200px;
+    margin-bottom: 2ch;
+}
+
+.erisim {
+
+font-family: 'VT323', monospace;
+margin-left: 19ch;
+margin-top: -3ch;
+color: aliceblue;
+}
+
+#info1 {
+  color: aliceblue;
+    margin-left: 6ch ;
+}
+
+
+#block {
+    margin-left: 175px;
+    margin-bottom: 6ch;
+}
+
+.blok {
+    font-family: 'VT323', monospace;
+    color: aliceblue;
+     margin-left: 60ch;
+     margin-top: -15ch;
+    }
+
+    #info2 {
+      color: aliceblue;
+        margin-left: 7ch ;
+    }
+
+#clv {
+    margin-left: 220px;
+    margin-bottom: 2ch;
+}
+.clv {
+    font-family: 'VT323', monospace;
+    color: aliceblue;
+    margin-left: 103ch;
+    margin-top: -15ch;
+}
+#info3 {
+  color: aliceblue;
+    margin-left: 7ch ;
+}
+
+#dikdortgen{
+  margin-top: 50px;
+  width:1366px;
+  height:50px;
+  background:rgba(139, 154, 185, 0.239);
+  }
+  #rfrs{
+    margin-top: -60px;
+  }
+
+  #tc{
+    margin-top: 50px;
+    margin-left: 150px;
+  }
+  #tbmm{
+    margin-left: 200px;
+  }
+
+  #mit{
+    margin-left: 200px;
+  }
+
+  #ibb{
+    margin-top: 100px;
+    margin-left: 350px;
+  }
+
+  #ank{
+    margin-left:250px ;
+  }
